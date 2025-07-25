@@ -1,5 +1,3 @@
-<img src="https://github.com/FariasPNt/FariasPNt/blob/main/foto-perfil.jpg" width="150" align="right" style="border-radius: 50%" />
-
 # 👋 Olá, eu sou Antonio Farias  
 Desenvolvedor Backend • Apaixonado por tecnologia • Explorador de soluções em nuvem  
 
