@@ -33,14 +33,13 @@ Seja bem-vindo(a) ao meu GitHub! Aqui compartilho projetos, estudos e ideias que
 - 🧠 [Meus repositórios](https://github.com/FariasPNt)
 
 ---
-<!--
+
 ## 📊 GitHub Stats
 
 ![Antonio GitHub Stats](https://github-readme-stats.vercel.app/api?username=FariasPNt&show_icons=true&theme=dracula)  
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FariasPNt&layout=compact&theme=dracula)
 
----
--->
+
 > “Construindo soluções reais, com tecnologia, propósito e entusiasmo.”
 
 
